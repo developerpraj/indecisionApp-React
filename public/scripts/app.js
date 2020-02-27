@@ -11,4 +11,5 @@ var template = React.createElement(
     );
 var appRoot= document.getElementById('app');
 //rendering the variable in console
+
 ReactDOM.render(template,appRoot);
